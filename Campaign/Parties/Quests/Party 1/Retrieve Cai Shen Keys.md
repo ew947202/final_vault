@@ -46,4 +46,5 @@ Our mission is to collect all the keys of [[Cai Shen]] in the hopes of being abl
 - [x] The party successfully captured the princess, but she had no idea about anything regarding the keys or [[Cai Shen]]
 	- [x] Turns out she had a map magically etched onto her back that showed the rough location of the first key
 - [x] We followed the map to an underground temple of [[Cai Shen]]  and found the first key and retrieved it after fighting the Skaven
-	- [ ] After returning from the temple the party gave the key to [[Yuan Tan]] and was told the second key is likely somewhere in the [[Liang Confederation]].
+	- [x] After returning from the temple the party gave the key to [[Yuan Tan]] and was told the second key is likely somewhere in the [[Liang Confederation]].
+	- [ ] The group made it to [[Liang Confederation]] and have found out that there are multiple Ma families and this one may not have information regarding the second key. [[Krillium Krew]] does remember that [[Ma Yunlei]] may have some information regarding the key... do we head back to [[Chang'an]]???

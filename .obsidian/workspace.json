@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cccfef32485b4c31",
+        "id": "b3d637183c4409ac",
         "type": "tabs",
         "children": [
           {
-            "id": "f621247fb7a5b7b5",
+            "id": "2736c583c27d54f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Organizations/Clan Pestilens.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62baaebdd23a8fba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign/Parties/Session Notes/Party 1/Welcomed to Yinping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be320b127d5f8a00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Krillium Krew.md",
+                "file": "Campaign/Parties/Quests/Party 1/Poisoned Royals.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Krillium Krew.md",
+                "file": "Campaign/Parties/Quests/Party 1/Poisoned Royals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Krillium Krew.md",
+                "file": "Campaign/Parties/Quests/Party 1/Poisoned Royals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Krillium Krew.md"
+                "file": "Campaign/Parties/Quests/Party 1/Poisoned Royals.md"
               }
             }
           },
@@ -178,14 +153,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 397.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "templater-obsidian:Templater": false,
-      "custom-sort:Toggle custom sorting": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-tts:Text to Speech": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -193,15 +164,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false,
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be320b127d5f8a00",
+  "active": "2736c583c27d54f8",
   "lastOpenFiles": [
-    "Campaign/Parties/Session Notes/Party 1/Welcomed to Yinping.md",
-    "Campaign/Organizations/Clan Pestilens.md",
     "Krillium Krew.md",
+    "Campaign/Parties/Quests/Party 1/Retrieve Cai Shen Keys.md",
+    "Campaign/NPCs/Ma Yunlei.md",
+    "Campaign/NPCs/Ma Teng.md",
+    "Campaign/NPCs/Ma Lianli.md",
+    "Campaign/Parties/Quests/Party 1/Poisoned Royals.md",
+    "Campaign/Parties/Characters/Party 1/Ketti Barques.md",
+    "Campaign/Organizations/Hierarchies/Kingdom of Liang.md",
+    "Campaign/Organizations/Clan Pestilens.md",
+    "Campaign/Organizations/Kingdom of Liang.md",
     "Campaign/Parties/Session Notes/Party 1/The Tomb of Man.md",
+    "Tools/Notepad.md",
+    "Campaign/Parties/Session Notes/Party 1/Welcomed to Yinping.md",
+    "Tools/Buttons.md",
     "Campaign/Parties/Characters/Party 1/Kuma Kabutomushi.md",
     "Campaign/NPCs/Harkor.md",
     "Campaign/NPCs/Ma Chao.md",
@@ -211,19 +196,9 @@
     "Campaign/NPCs/Li Ru.md",
     "Campaign/NPCs/Zhang He.md",
     "Campaign/Organizations/Kingdom of Song.md",
-    "Campaign/Organizations/Kingdom of Liang.md",
     "Campaign/Organizations/Red Hands.md",
     "Campaign/NPCs/Ma Mei.md",
-    "Campaign/NPCs/Ma Lianli.md",
     "Campaign/Parties/Characters/Party 1/Wu Shen Jiao.md",
-    "Campaign/NPCs/Ma Teng.md",
-    "Campaign/Settlements/Yinping.md",
-    "Campaign/NPCs/Yuan Fang.md",
-    "Campaign/Geography/Xia Remnants.md",
-    "Tools/Buttons.md",
-    "Campaign/Parties/Characters/Party 1/Ketti Barques.md",
-    "Campaign/NPCs/Drezzard.md",
-    "Campaign/Deities/Cai Shen.md",
     "z_Assets/Player Characters/Krillum.jpg"
   ]
 }
